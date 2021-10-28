@@ -1,3 +1,3 @@
-module github.com/CaojiamingAlan/chinese-holiday
+module github.com/CaojiamingAlan/chinese_holiday
 
 go 1.16
